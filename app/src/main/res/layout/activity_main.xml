@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lenovo.application.MainActivity">
+   <!-- <fm.jiecao.jcvideoplayer_lib.JCVideoPlayerStandard
+        android:id="@+id/custom_videoplayer_standard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+    <TextView
+        android:id="@+id/trans1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:text="平移"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:id="@+id/trans2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:text="平移"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:id="@+id/trans3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:text="平移"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:id="@+id/trans4"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:text="平移"
+        android:textSize="20dp"
+        />
+    <ImageView
+        android:id="@+id/images1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/play"/>
+</LinearLayout>
