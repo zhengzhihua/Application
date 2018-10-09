@@ -16,6 +16,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.LinearInterpolator;
 
+
 /**
  * Created by zhengzhihua on 2018/10/9.13:57
  * Update 2018/10/9 13:57

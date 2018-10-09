@@ -33,6 +33,7 @@ public class WriteWord extends AppCompatActivity{
         canvasView.start();
     }
 
+	
     private Path getPath() {
         Path textPath = new Path();
         Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
