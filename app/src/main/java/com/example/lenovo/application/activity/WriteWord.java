@@ -10,7 +10,6 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.lenovo.application.R;
 import com.example.lenovo.application.view.CanvasView;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
